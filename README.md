@@ -1,3 +1,3 @@
 # BMSTU-5th-Sem
 
-OS, Analysis of algorithms, DataBase, EVM(NodeJS)
+LAB WORK OF 5th-Sem
