@@ -19,7 +19,7 @@ function isVowel(char)
   }
 }
 
-class ChildrenDB {
+class ChildrenRepository {
     
     constructor() {
         this.dict = {};
@@ -131,28 +131,28 @@ class ChildrenDB {
 }
 
 console.log("Hello");
-let db = new ChildrenDB();
+let repo = new ChildrenRepository();
 
-// db.addChild("petrovich", 15);
-// db.addChild("Chaushev", 20);
-// db.addChild("Ivchenko", 19);
+// repo.addChild("petrovich", 15);
+// repo.addChild("Chaushev", 20);
+// repo.addChild("Ivchenko", 19);
 // test on unique
-// db.addChild("petrovich", 20);
+// repo.addChild("petrovich", 20);
 
-// db.getAllChildren();
+// repo.getAllChildren();
 
-// console.log(db.findAvarageAge());
+// console.log(repo.findAvarageAge());
 // console.log("Deleting petrovhich");
-// db.deleteChild("petrovich");
+// repo.deleteChild("petrovich");
 
-// db.getAllChildren();
+// repo.getAllChildren();
 
-// console.log(db.findAvarageAge());
-// db.findOldest();
+// console.log(repo.findAvarageAge());
+// repo.findOldest();
 
-// db.findInRange(18,25);
+// repo.findInRange(18,25);
 
-// db.findFirstSymbolName("C");    
-// db.findNameLongerThan(8);
-// db.findNameStartOnVowel();
+// repo.findFirstSymbolName("C");    
+// repo.findNameLongerThan(8);
+// repo.findNameStartOnVowel();
 console.log("Bye");
