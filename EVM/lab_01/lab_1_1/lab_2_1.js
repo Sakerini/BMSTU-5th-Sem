@@ -48,12 +48,13 @@ class Line {
 
 //MAIN
 
-//Make 2 Points
+console.log("Make 2 Points")
 let point1 = new Point(0,5);
+console.log(point1)
 let point2 = new Point(5,5);
-//Make Line
+console.log(point2)
+console.log("Make Line")
 let line = new Line(point1, point2);
-
 line.showLine();
 
 console.log(line.getLen());

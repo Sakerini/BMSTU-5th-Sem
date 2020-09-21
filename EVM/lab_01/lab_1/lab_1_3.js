@@ -166,11 +166,17 @@ pointRepo.addPoint("second", point2);
 pointRepo.addPoint("third", point3);
 pointRepo.addPoint("fourth", point4);
 
-//pointRepo.findPoint("first");
-//pointRepo.findTwoFarestPoints();
-//pointRepo.findPointFromAtRange("first", 11);
-//pointRepo.findPointsAboveOx();
-//pointRepo.findPointsUnderOx();
-//pointRepo.findPointsLeftFromY();
-//pointRepo.findPointsRightFromY();
-//pointRepo.findPointsInRectangle(-4, -8, 3, -5);
+console.log("ALL POINTS")
+pointRepo.findAllPoints()
+console.log("Points at range 11")
+pointRepo.findPointFromAtRange("first", 11);
+console.log("Points above OX")
+pointRepo.findPointsAboveOx();
+console.log("Points under OX")
+pointRepo.findPointsUnderOx();
+console.log("Points left from Y")
+pointRepo.findPointsLeftFromY();
+console.log("Points Right from Y")
+pointRepo.findPointsRightFromY();
+console.log("Find points in rectangle -4 8 3 -5")
+pointRepo.findPointsInRectangle(-4, -8, 3, -5);

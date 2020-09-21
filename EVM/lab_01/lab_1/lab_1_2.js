@@ -28,7 +28,7 @@ class Student {
     }
 }
 
-class StudentsDB {
+class StudentsRepository {
 
     constructor() {
         this.dict = {};
@@ -104,7 +104,7 @@ class StudentsDB {
 
 //MAIN
 //Create DB
-let studentsDB = new StudentsDB();
+let studentsDB = new StudentsRepository();
 //Create 4 students
 let student1 = new Student("IU7","1872", [5,5,3,5]);
 let student2 = new Student("IU9","1922", [3,3,3,5]);
@@ -116,12 +116,13 @@ studentsDB.addStudent(student2.number, student2);
 studentsDB.addStudent(student3.number, student3);
 studentsDB.addStudent(student4.number, student4);
 //Print Students
-//studentsDB.getAllStudents();
-//Get Avarage Grade Of Student by number
-//console.log(studentsDB.getAvarageGradeOfStudent("1922"));
-//Get information of students by group
-//studentsDB.getStudentsByGroup("IU7");
-//Find Student with the most grades in a group
-//studentsDB.findStudentWithMostGradesByGroup("IU7");
-// Find StudentWithout grades
-//studentsDB.findStudentsWithoutGrades()
+console.log("Students:")
+studentsDB.findAllStudents();
+console.log("Get Avarage Grade Of Student by number:")
+console.log(studentsDB.getAvarageGradeOfStudent("1922"));
+console.log("Get information of students by group")
+studentsDB.findStudentsByGroup("IU7");
+console.log("Find Student with the most grades in a group")
+studentsDB.findStudentWithMostGradesByGroup("IU7");
+console.log("Find StudentWithout grades")
+studentsDB.findStudentsWithoutGrades()

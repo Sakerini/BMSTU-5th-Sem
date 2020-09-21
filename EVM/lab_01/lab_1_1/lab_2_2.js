@@ -79,9 +79,10 @@ class Triangle {
 
 //Main
 
-//Create triangle
+console.log("Create triangle")
 let triangle = new Triangle(3,4,5)
-console.log(triangle.getPerimeter())
-console.log(triangle.getS())
-console.log(triangle.isCorrect())
-console.log(triangle.isPryqmougolnyi())
+console.log(triangle)
+console.log("perimeter: " + triangle.getPerimeter())
+console.log("square: " + triangle.getS())
+console.log("Is Correct:" + triangle.isCorrect())
+console.log("IS Pryamougolyni:" + triangle.isPryqmougolnyi())

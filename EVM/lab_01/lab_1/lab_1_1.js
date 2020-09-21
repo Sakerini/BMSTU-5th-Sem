@@ -130,29 +130,21 @@ class ChildrenRepository {
     }
 }
 
-console.log("Hello");
-let repo = new ChildrenRepository();
-
-// repo.addChild("petrovich", 15);
-// repo.addChild("Chaushev", 20);
-// repo.addChild("Ivchenko", 19);
+console.log("Children in Repository");
+let db = new ChildrenRepository();
+ db.addChild("petrovich", 15);
+ db.addChild("Chaushev", 20);
+ db.addChild("Ivchenko", 19);
 // test on unique
-// repo.addChild("petrovich", 20);
-
-// repo.getAllChildren();
-
-// console.log(repo.findAvarageAge());
-// console.log("Deleting petrovhich");
-// repo.deleteChild("petrovich");
-
-// repo.getAllChildren();
-
-// console.log(repo.findAvarageAge());
-// repo.findOldest();
-
-// repo.findInRange(18,25);
-
-// repo.findFirstSymbolName("C");    
-// repo.findNameLongerThan(8);
-// repo.findNameStartOnVowel();
-console.log("Bye");
+ db.addChild("petrovich", 20);
+ console.log("Olderst child:")
+db.getAllChildren()
+ console.log("Avarage age: " + db.findAvarageAge());
+console.log("Childer in range from 18 - 25:")
+db.findInRange(18,25)
+console.log("First Symbol C:") 
+db.findFirstSymbolName("C")
+console.log("Name Longer Than 8: ")
+db.findNameLongerThan(8);
+console.log("Starts on Vowel")
+db.findNameStartOnVowel()
