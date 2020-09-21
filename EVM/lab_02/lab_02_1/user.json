@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "gender": "female",
+            "name": {
+                "title": "Miss",
+                "first": "Valerie",
+                "last": "Reid"
+            },
+            "location": {
+                "street": {
+                    "number": 7260,
+                    "name": "Hamilton Ave"
+                },
+                "city": "Adelaide",
+                "state": "New South Wales",
+                "country": "Australia",
+                "postcode": 561,
+                "coordinates": {
+                    "latitude": "-81.0083",
+                    "longitude": "52.2377"
+                },
+                "timezone": {
+                    "offset": "-3:00",
+                    "description": "Brazil, Buenos Aires, Georgetown"
+                }
+            },
+            "email": "valerie.reid@example.com",
+            "login": {
+                "uuid": "fb25b502-9ac4-4e77-959f-c976e1b5a796",
+                "username": "yellowrabbit633",
+                "password": "madison",
+                "salt": "NXq5CCvv",
+                "md5": "9305744e9dca63dabb51e51e96ae6363",
+                "sha1": "c23867e93e88f54a8dc495415f68afb1b21497bb",
+                "sha256": "139d430d77d16e504e3aba97a2062d1d7c1f44428c32f1308ab8e920c323a099"
+            },
+            "dob": {
+                "date": "1969-07-30T03:07:18.274Z",
+                "age": 51
+            },
+            "registered": {
+                "date": "2009-03-02T04:41:19.914Z",
+                "age": 11
+            },
+            "phone": "01-7364-6445",
+            "cell": "0438-432-717",
+            "id": {
+                "name": "TFN",
+                "value": "042444159"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/88.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/88.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/88.jpg"
+            },
+            "nat": "AU"
+        }
+    ],
+    "info": {
+        "seed": "f312164c91cd5f2a",
+        "results": 1,
+        "page": 1,
+        "version": "1.3"
+    }
+}
