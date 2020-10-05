@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Страница Ввода полей</title>
+</head>
+<body>  
+    <form method="GET" action="/input">
+        <p>Введите адресс</p>
+        <input name="address" spellcheck="false" autocomplete="off">
+        <input type="button" onclick="addRow()" value="Add Field" ></button>       
+        <br>
+        <br>
+        <table id="table">
+            <tr>
+                <td><input name="field" type="text"></td>
+            </tr>
+        </table>
+        <input type="submit" value="Отправить запрос">
+    </form>
+    <script language="javascript">
+        function addRow() {
+        let table = document.getElementById("table")
+        
+        let rowCount = table.rows.length
+        let row = table.insertRow(rowCount)
+        let cell = row.insertCell(0)
+        let elem = document.createElement("input")
+        elem.type = "text"
+        elem.name = "field"
+        elem.placeholder = "field"
+        cell.appendChild(elem)
+        }
+        </script>
+</body>
+</html>
