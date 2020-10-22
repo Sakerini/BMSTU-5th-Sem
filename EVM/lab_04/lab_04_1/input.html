@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Страница Ввода</title>
+</head>
+<body>  
+    <form method="GET" action="/insert/warehouse">
+        <p>Введите Имя Склада</p>
+        <input name="warehouse" spellcheck="false" autocomplete="off">
+        <input type="button" onclick="addRow()" value="Добавить тачку" ></button>       
+        <br>
+        <br>
+        <table id="table">
+        </table>
+        <input type="submit" value="Добавить">
+    </form>
+    <script language="javascript">
+        function addRow() {
+        let table = document.getElementById("table")
+        
+        let rowCount = table.rows.length
+        let row = table.insertRow(rowCount)
+        let cell = row.insertCell(0)
+        let modelInput = document.createElement("input")
+        modelInput.type = "text"
+        modelInput.name = "field"
+        modelInput.placeholder = "model"
+        cell.appendChild(modelInput)
+        }
+        </script>
+</body>
+</html>
