@@ -33,7 +33,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Analysis-of-algorithms/lab01" />
     <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
   <component name="RunManager">
@@ -73,6 +73,7 @@
       <workItem from="1601405927631" duration="2036000" />
       <workItem from="1601539550931" duration="165000" />
       <workItem from="1601541648302" duration="945000" />
+      <workItem from="1601564362352" duration="626000" />
     </task>
     <servers />
   </component>
@@ -88,6 +89,10 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="416" y="146" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1366.741@0.27.1366.741" timestamp="1601542106326" />
+    <state x="466" y="155" width="424" height="484" key="FileChooserDialogImpl" timestamp="1601565449516">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="466" y="155" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1601565449516" />
     <state width="1320" height="175" key="GridCell.Tab.0.bottom" timestamp="1601542605976">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
