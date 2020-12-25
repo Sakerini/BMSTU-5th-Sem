@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fdb879bc-396b-4fb0-92db-72e51eb9e3c9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1m6qQH05sc6TT6Jg6NFQPc7xLKQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="lab7" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fdb879bc-396b-4fb0-92db-72e51eb9e3c9" name="Default Changelist" comment="" />
+      <created>1608824370721</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608824370721</updated>
+      <workItem from="1608824374055" duration="5402000" />
+      <workItem from="1608845003063" duration="14243000" />
+      <workItem from="1608891043401" duration="55000" />
+      <workItem from="1608898137916" duration="1096000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="278" y="59" width="848" height="681" key="#Project_Structure" timestamp="1608859403083">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="278" y="59" width="848" height="681" key="#Project_Structure/0.27.1366.741@0.27.1366.741" timestamp="1608859403083" />
+    <state x="457" y="116" width="442" height="586" key="#com.intellij.ide.util.MemberChooser" timestamp="1608847009770">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="457" y="116" width="442" height="586" key="#com.intellij.ide.util.MemberChooser/0.27.1366.741@0.27.1366.741" timestamp="1608847009770" />
+    <state x="286" y="67" width="784" height="665" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1608844348824">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="286" y="67" width="784" height="665" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.27.1366.741@0.27.1366.741" timestamp="1608844348824" />
+    <state x="466" y="155" width="424" height="488" key="FileChooserDialogImpl" timestamp="1608842603174">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="466" y="155" width="424" height="488" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1608842603174" />
+    <state width="1320" height="216" key="GridCell.Tab.0.bottom" timestamp="1608859534027">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="216" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1608859534027" />
+    <state width="1320" height="216" key="GridCell.Tab.0.center" timestamp="1608859534026">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="216" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1608859534026" />
+    <state width="1320" height="216" key="GridCell.Tab.0.left" timestamp="1608859534026">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="216" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1608859534026" />
+    <state width="1320" height="216" key="GridCell.Tab.0.right" timestamp="1608859534027">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="216" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1608859534027" />
+    <state width="1320" height="216" key="GridCell.Tab.1.bottom" timestamp="1608859534028">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="216" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1608859534028" />
+    <state width="1320" height="216" key="GridCell.Tab.1.center" timestamp="1608859534027">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="216" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1608859534027" />
+    <state width="1320" height="216" key="GridCell.Tab.1.left" timestamp="1608859534027">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="216" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1608859534027" />
+    <state width="1320" height="216" key="GridCell.Tab.1.right" timestamp="1608859534028">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="216" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1608859534028" />
+    <state x="166" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1608844304528">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="166" y="27" width="1024" height="741" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1608844304528" />
+    <state x="347" y="175" key="run.anything.popup" timestamp="1608847058255">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="347" y="175" key="run.anything.popup/0.27.1366.741@0.27.1366.741" timestamp="1608847058255" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1608846122336">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1608846122336" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/Dict.kt</url>
+          <line>68</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/Dict.kt</url>
+          <line>36</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/Dict.kt</url>
+          <line>37</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/Dict.kt</url>
+          <line>38</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/Dict.kt</url>
+          <line>18</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/Dict.kt</url>
+          <line>19</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/Dict.kt</url>
+          <line>24</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/Dict.kt</url>
+          <line>25</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/Dict.kt</url>
+          <line>20</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/Dict.kt</url>
+          <line>27</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
